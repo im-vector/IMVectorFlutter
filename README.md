@@ -12,9 +12,9 @@ documents 文件夹用于存放一些额外数据，跟 Flutter 项目无关，�
 
 ## TODO
 
-- [ ] 增加引导页
+- [ ] 增加闪屏页
 - [ ] 增加主页面
-- [ ] 引导页和主页面动画自定义（optional）
+- [ ] 闪屏页和主页面动画自定义（optional）
 
 ## Getting Started
 
