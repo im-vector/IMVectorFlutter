@@ -10,6 +10,12 @@ documents 文件夹用于存放一些额外数据，跟 Flutter 项目无关，�
 
 ![演示效果 gif](./documents/run.gif)
 
+## TODO
+
+- [ ] 增加引导页
+- [ ] 增加主页面
+- [ ] 引导页和主页面动画自定义（optional）
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
