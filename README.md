@@ -15,6 +15,8 @@ documents 文件夹用于存放一些额外数据，跟 Flutter 项目无关，�
 - [x] 增加闪屏页
 - [x] 增加主页面
 - [ ] 闪屏页和主页面动画自定义（optional）
+- [ ] 登录
+- [ ] 单聊（发送文字）
 
 ## Getting Started
 
